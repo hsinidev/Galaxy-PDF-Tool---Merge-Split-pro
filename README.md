@@ -13,8 +13,8 @@
 <br />
 
 ## 🚀 LIVE DEMO
-<a href="https://pdfTool.doodax.com" target="_blank">
-  <img src="https://img.shields.io/badge/CLICK%20TO%20OPEN-%20pdfTool.doodax.com%20%F0%9F%9A%80-7289da?style=for-the-badge&labelColor=23272a" alt="Live Demo" height="50" />
+<a href="https://doodax.com/tools/pdf-merger-splitter/index.html" target="_blank">
+  <img src="https://img.shields.io/badge/CLICK%20TO%20OPEN-%20pdfdoodax.com%20%F0%9F%9A%80-7289da?style=for-the-badge&labelColor=23272a" alt="Live Demo" height="50" />
 </a>
 
 ---
